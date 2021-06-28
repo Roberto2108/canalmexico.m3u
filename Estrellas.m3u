@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="CULTURA", ANIMAL PLANET
+https://nusxdb2k9p.azcdn381.net:8443/hls/zfwban4sppn0.m3u8?s=WImtiZJ2Rxcn721mRgJLCw&e=1624863277
+
+#EXTINF:-1 group-title="CINE",HBO FAMILY
+https://nusxdb2k9p.azcdn381.net:8443/hls/mfobze65eqg.m3u8?s=fJNP9znJaYALA7xWC8mQXQ&e=1624863762
+
+#EXTINF:-1 group-title="MUSICA",MTV
+https://nusxdb2k9p.azcdn381.net:8443/hls/1ojmxycsqiiy8.m3u8?s=4vfVKe6WPmfv9CNTqsr0Eg&e=1624863984
+
+#EXTINF:-1 group-title="PROGRAMA",CANAL DE LAS ESTRELLAS
+https://nusxdb2k9p.azcdn381.net:8443/hls/dscs0wr97wf.m3u8?s=8TCv1VtcMsDi4SkRMiEIRw&e=1624864173
+
+#EXTINF:-1 group-title="PROGRAMA",CANAL 5
+https://nusxdb2k9p.azcdn381.net:8443/hls/da0s08.m3u8?s=8qY9uup39xB0Uxa2NJkXnw&e=1624864247
